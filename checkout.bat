@@ -10,3 +10,5 @@ git tag
 git branch -a
 git checkout tags/V1.1
 git checkout SubBranch_Sample
+
+git status
